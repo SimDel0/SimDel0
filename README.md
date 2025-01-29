@@ -5,6 +5,8 @@
 ---
 
 ## 🌟 About Me
+I'm a third-year Computer Science student (L3 Informatique) at the University of Reims Champagne-Ardenne.  
+
 I'm passionate about cybersecurity and ethical hacking, constantly improving my skills with tools like Kali Linux, Nmap, and more.  
 I also enjoy programming in **C**, **Java**, and **C++** while exploring system administration and network protocols.
 
@@ -24,12 +26,6 @@ I also enjoy programming in **C**, **Java**, and **C++** while exploring system 
 
 ---
 
-## 🤝 Collaboration
-I'm looking to collaborate on cybersecurity projects, penetration testing, or anything related to ethical hacking and network security.  
-Feel free to reach out if you have exciting opportunities!
-
----
-
 ## 📫 Contact Me
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
@@ -37,3 +33,4 @@ Feel free to reach out if you have exciting opportunities!
 
 ## ⚡ Fun Fact
 My favorite book is *House of Leaves*.
+I’m currently learning Korean
