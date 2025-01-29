@@ -16,11 +16,11 @@ I also enjoy programming in **C**, **Java**, and **C++** while exploring system 
 - ![C++](https://img.icons8.com/color/24/000000/c-plus-plus-logo.png) **C++ Programming**  
 - ![Linux](https://img.icons8.com/color/24/000000/linux--v1.png) **Linux Administration**  
 - ![Network Protocols](https://img.icons8.com/fluency/24/000000/network.png) **Networking Protocols (TCP/IP, HTTP, DNS)**  
-- ![Admin](https://img.icons8.com/fluency/24/000000/system-administrator.png) **System Administration**  
-- ![GLPI](https://img.icons8.com/ios/24/000000/glpi.png) **GLPI (IT Asset Management)**  
+-  **System Administration**  
+- **GLPI (IT Asset Management)**  
 - ![Kali Linux](https://img.icons8.com/color/24/000000/kali-linux.png) **Kali Linux**  
 - ![Nmap](https://img.icons8.com/color/24/000000/nmap.png) **Nmap**  
-- ![mRemoteNG](https://img.icons8.com/windows/24/000000/multi-remote.png) **mRemoteNG**
+-  **mRemoteNG**
 
 ---
 
