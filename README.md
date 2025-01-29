@@ -32,5 +32,5 @@ I also enjoy programming in **C**, **Java**, and **C++** while exploring system 
 ---
 
 ## ⚡ Fun Fact
-My favorite book is *House of Leaves*.
-I’m currently learning Korean
+- My favorite book is *House of Leaves*.
+- I’m currently learning Korean
