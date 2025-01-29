@@ -27,7 +27,7 @@ I also enjoy programming in **C**, **Java**, and **C++** while exploring system 
 ---
 
 ## 📫 Contact Me
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [linkedin.com/in/simon deloche](https://www.linkedin.com/in/simon-deloche-340196274/)
 
 ---
 
